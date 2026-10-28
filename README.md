@@ -10,7 +10,7 @@
   <img alt="Open to work" src="https://img.shields.io/badge/Open_to-senior_%2F_lead_mobile_roles-3DDC84?style=flat-square">
 </p>
 
-## Hi, I'm Guido 👋
+## Hi, I'm Guido 🗿
 
 I build Android apps for a living, and I've been doing it for **9+ years**: from software for connected medical devices to consumer apps used at scale, like **Sisal**'s sports betting app and **Angi.com**.
 
