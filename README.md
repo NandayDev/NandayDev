@@ -60,6 +60,7 @@ My career is a series of new stacks, learned on the job and on my own projects:
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Condominio App**](https://github.com/NandayDev/CondominioApp) | Flutter app to manage your small Italian condo | Flutter, Dart |
 | [**Venice**](https://github.com/NandayDev/Venice) | .NET library for personal finance and investment tracking | C#, .NET |
 | [**One Last Night**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
 | [**Downlight**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
