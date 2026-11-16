@@ -33,14 +33,14 @@ AI is part of my everyday toolbox, not a side experiment.
 
 My career is a series of new stacks, learned on the job and on my own projects:
 
-```text
-2016  Android (Java), PHP, WordPress          ── freelance
-2019  Kotlin, Coroutines, BLE, WebRTC, FHIR   ── medical devices
-2019  C# / WPF desktop apps                   ── medical devices
-2021  Unity + C#                              ── Spooky Parrots games
-2022  Jetpack Compose at scale                ── Sisal, Angi.com
- now  Flutter, Kotlin Multiplatform, AI-assisted development
-```
+| When | What I picked up | Where |
+|---|---|---|
+| **Now** | Flutter, Kotlin Multiplatform, AI-assisted development | Personal projects, Spooky Parrots |
+| **2022** | Jetpack Compose at scale | Sisal, Angi.com |
+| **2021** | Unity, C# | Spooky Parrots games |
+| **2019** | Kotlin, Coroutines, Bluetooth LE, WebRTC, FHIR | Medical devices |
+| **2019** | C#, WPF desktop apps | Medical devices |
+| **2016** | Android (Java), PHP, WordPress | Freelance |
 
 ## 🛠️ Tech stack
 
@@ -60,8 +60,8 @@ My career is a series of new stacks, learned on the job and on my own projects:
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Condominio App**](https://github.com/NandayDev/CondominioApp) | Flutter app to manage your small Italian condo | Flutter, Dart |
 | [**Nutrients AI Tracker**](https://github.com/NandayDev/NutrientsAITracker) | Android app to track the nutrients in the food you eat, with GPT-4o reading nutrition labels from a photo | Kotlin, Jetpack Compose, Room, OpenAI |
+| [**Condominio App**](https://github.com/NandayDev/CondominioApp) | Flutter app to manage your small Italian condo | Flutter, Dart |
 | [**Venice**](https://github.com/NandayDev/Venice) | .NET library for personal finance and investment tracking | C#, .NET |
 | [**One Last Night**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
 | [**Downlight**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
