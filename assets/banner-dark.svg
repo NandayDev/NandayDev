@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Guido Cardinali, Senior Android &amp; Mobile Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3DDC84"/>
+      <stop offset="1" stop-color="#7F52FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <circle cx="1060" cy="40" r="140" fill="#3DDC84" opacity="0.20"/>
+  <circle cx="1150" cy="230" r="110" fill="#7F52FF" opacity="0.22"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="118" font-size="60" font-weight="700" fill="#F0F6FC">Guido Cardinali</text>
+    <rect x="74" y="140" width="120" height="6" rx="3" fill="url(#accent)"/>
+    <text x="72" y="196" font-size="30" font-weight="500" fill="#C9D1D9">Senior Android &amp; Mobile Engineer</text>
+    <text x="72" y="232" font-size="20" fill="#8B949E">Kotlin · Jetpack Compose · Flutter · AI-assisted development</text>
+  </g>
+</svg>
