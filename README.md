@@ -29,18 +29,34 @@ AI is part of my everyday toolbox, not a side experiment.
 | **Learning fast** | I use AI to ramp up on new technologies and get productive quickly. |
 | **AI inside apps** | I integrate AI APIs into the apps I build. |
 
-## 🌱 Always picking up something new
+## 💼 Experience
 
-My career is a series of new stacks, learned on the job and on my own projects:
+**Senior Android Engineer** · Independent contractor<br>
+<sub>Jan 2022 – Present · Remote</sub>
 
-| When | What I picked up | Where |
-|---|---|---|
-| **Now** | Flutter, Kotlin Multiplatform, AI-assisted development | Personal projects, Spooky Parrots |
-| **2022** | Jetpack Compose at scale | Sisal, Angi.com |
-| **2021** | Unity, C# | Spooky Parrots games |
-| **2019** | Kotlin, Coroutines, Bluetooth LE, WebRTC, FHIR | Medical devices |
-| **2019** | C#, WPF desktop apps | Medical devices |
-| **2016** | Android (Java), PHP, WordPress | Freelance |
+- **Sisal**: performance-sensitive features for a native Android sports betting app, and its migration from XML Views to Jetpack Compose (Kotlin, Room, Coroutines, Flow)
+- **Poste Italiane**: new features and bug fixes in the Firma Elettronica app
+- **Angi.com**: RxJava → Coroutines/Flow refactoring in a 30-developer team, plus a guided onboarding flow for contractors
+- **University of Toronto**: an Android app built from scratch around a Bluetooth LE device, working directly with a professor
+
+**Co-founder** · [Spooky Parrots](https://spookyparrots.itch.io/)<br>
+<sub>2021 – Present · Indie game micro-studio</sub>
+
+- Two free games released with Unity and C#, a Flutter project in the works
+
+**Senior Software Engineer & Mobile Team Lead** · MIR SpA<br>
+<sub>Jan 2019 – Dec 2021 · Medical devices, respiratory monitoring</sub>
+
+- Grew from Software Engineer to Mobile Team Lead of 4 people
+- Took unit-test coverage from zero to ~85% on SDKs and ~60% on apps
+- Led the move to Kotlin, LiveData and Coroutines
+- **MIR Spirobank** and **MIR Smart One**: spirometry and oximetry over BLE, WebRTC video consults, FHIR/HL7 integrations
+
+**Software Engineer** · Freelance<br>
+<sub>Dec 2016 – Dec 2018</sub>
+
+- Android apps and WordPress websites for small clients, from requirements to delivery
+- Backend features with PHP and ASP.NET Core
 
 ## 🛠️ Tech stack
 
@@ -65,13 +81,6 @@ My career is a series of new stacks, learned on the job and on my own projects:
 | [**Venice**](https://github.com/NandayDev/Venice) | .NET library for personal finance and investment tracking | C#, .NET |
 | [**One Last Night**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
 | [**Downlight**](https://spookyparrots.itch.io/) | Free indie game by Spooky Parrots | Unity, C# |
-
-## 🧳 Selected work
-
-- **Sisal**: performance-sensitive features and the XML → Compose migration of a native Android sports betting app
-- **Angi.com**: RxJava → Coroutines/Flow refactoring in a 30-developer team, plus a guided onboarding flow for contractors
-- **University of Toronto**: an Android app built from scratch around a Bluetooth LE device
-- **MIR**: spirometry and oximetry apps (BLE, WebRTC video consults, FHIR/HL7); took unit-test coverage to ~85% on SDKs
 
 ## 🎲 Off the clock
 
